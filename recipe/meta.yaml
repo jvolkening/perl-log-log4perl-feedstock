@@ -47,7 +47,6 @@ about:
   license_family: OTHER
   summary: 'Log4j implementation for Perl'
   license_file: LICENSE
-    - LICENSE
 
 extra:
   recipe-maintainers:
